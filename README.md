@@ -51,8 +51,8 @@ This project utilizes the **Open University Learning Analytics Dataset (OULAD)**
 
 1. **Install RAPIDS**:  
    Clone the RAPIDS utilities repository and run the installation script:
-   !git clone https://github.com/rapidsai/rapidsai-csp-utils.git
-   !python rapidsai-csp-utils/colab/pip-install.py
+   - !git clone https://github.com/rapidsai/rapidsai-csp-utils.git
+   - !python rapidsai-csp-utils/colab/pip-install.py
    
 2 . **Download and Prepare the Dataset:**
   -Obtain the OULAD dataset from OULAD Dataset.
